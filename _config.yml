@@ -1,0 +1,28 @@
+name: Pathways Education Services
+favicon: null
+layout_spectrum: 0.5371190069708973
+typography_spectrum: 0.1764484904706478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.31370276771485806
+  lightness: 0.8825911290477961
+  saturation: 0.06893672398291528
+  rhythmicContrast: 0.941644518636167
+purpose: []
