@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pathways Education Services]]></title>
+        <description><![CDATA[Pathways Education Services]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 10:08:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand]]></title>
+            <description><![CDATA[<h1>New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand</h1>]]></description>
+            <link>undefinednew-irlen-simulation-helps-non-sufferers-experience-symptoms/index.html</link>
+            <guid isPermaLink="false">038f25db-63ad-4ac2-96c5-523969fcacdf</guid>
+            <pubDate>Mon, 11 Apr 2016 10:08:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
