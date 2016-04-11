@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-04-11T10:36:03.843Z'
-dateModified: '2016-04-11T10:34:03.224Z'
+description: 'To help people better understand, The Irlen Institute has produced a great video that simulates Irlen Syndrome.'
+datePublished: '2016-04-11T10:38:19.298Z'
+dateModified: '2016-04-11T10:37:09.527Z'
 title: New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand
 author: []
 sourcePath: _posts/2016-04-11-new-irlen-simulation-helps-non-sufferers-experience-symptoms.md
