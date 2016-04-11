@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pathways Education Services]]></title>
         <description><![CDATA[Pathways Education Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pathways-education-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 10:08:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 10:36:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pathways-education-services/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand]]></title>
-            <description><![CDATA[<h1>New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand</h1>]]></description>
-            <link>undefinednew-irlen-simulation-helps-non-sufferers-experience-symptoms/index.html</link>
+            <description><![CDATA[<article><h1>New Irlen Simulation Helps Non-Sufferers Experience Symptoms First-Hand</h1><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/pathways-education-services/new-irlen-simulation-helps-non-sufferers-experience-symptoms/index.html</link>
             <guid isPermaLink="false">038f25db-63ad-4ac2-96c5-523969fcacdf</guid>
-            <pubDate>Mon, 11 Apr 2016 10:08:13 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 10:36:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
